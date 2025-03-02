@@ -33,3 +33,5 @@ Then open the webpage locally to chat.
 # Easily themeable 
 
 - So easy you don't even need to do it yourself. Give the CSS and HTML to a model like Qwen Coder and ask it to design new themes for you.
+
+[![temp-Images-QAh1w.avif](https://i.postimg.cc/KzZgX28H/temp-Images-QAh1w.avif)](https://postimg.cc/VSVNM2Mq)
